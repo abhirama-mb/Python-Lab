@@ -220,6 +220,25 @@ These implementations helped me understand fundamental data structure operations
 
 This section is helping me build a stronger foundation in **Data Structures and Algorithms (DSA)** while improving my understanding of how different operations affect performance.
 
+## 🔤 Theory of Computation & DFA
+
+I have also started implementing concepts from **Theory of Computation (TOC)** using Python to better understand how formal languages and automata work in practice.
+
+### Deterministic Finite Automata (DFA)
+
+Implemented Python programs based on DFA concepts, including:
+
+* DFA state transitions
+* String validation using DFA
+* Pattern recognition
+* Accepting and rejecting states
+* Regular-language based validation
+
+These implementations help me connect the theoretical concepts of **states, transitions, alphabets, and accepting states** with practical Python programs.
+
+This section will be expanded as I learn more concepts from **Theory of Computation and Automata**.
+
+
 ## 🎯 Purpose
 
 This repository is part of my journey to strengthen my **Python, problem-solving, and software development skills** through hands-on practice.
